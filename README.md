@@ -1,6 +1,6 @@
 ## Commit Geolocate
 
-![](https://i.imgur.com/P94U6Oi.png)
+![](https://i.imgur.com/dzcJIVk.png)
 
 Tag your geolocation every time you make a commit (using only UNIX tools).
 
